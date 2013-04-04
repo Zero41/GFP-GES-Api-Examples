@@ -1,0 +1,15 @@
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+_ReSharper.*
+_NCrunch_*
+*.sln.cache
+*.sln.docstates
+*.Publish.xml
+*.dotCover
+*.ncrunchproject
+*.ncrunchsolution
+*.cache
